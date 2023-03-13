@@ -5,9 +5,9 @@
 
 * With WebSocket, Spring Web Security, OAuth2
 
-* [ERD](https://github.com/sok5188/spring_study/blob/e655f74e8021bdc0504877e1a3cfc5df5a460b8a/GuessMusic.png)
-* [DevNote](https://github.com/sok5188/spring_study/blob/e655f74e8021bdc0504877e1a3cfc5df5a460b8a/guess_musicDevNote.pdf)
-* [ProjectPPT](https://github.com/sok5188/spring_study/blob/e655f74e8021bdc0504877e1a3cfc5df5a460b8a/GuessMusicPDF.pdf)
+* [ERD](https://github.com/sok5188/GuessMusic/blob/2168cb009c24cf3e08128dd128e1205c31a52314/GuessMusic.png)
+* [DevNote](https://github.com/sok5188/GuessMusic/blob/2168cb009c24cf3e08128dd128e1205c31a52314/guess_musicDevNote.pdf)
+* [ProjectPPT](https://github.com/sok5188/GuessMusic/blob/2168cb009c24cf3e08128dd128e1205c31a52314/GuessMusicPDF.pdf)
 
 
 
