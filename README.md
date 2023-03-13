@@ -1,5 +1,3 @@
-# hello-spring
-for study spring
 
 # guess_music
 * Use Spring boot 3.0.1, PostgreSQL, Javascript, HTML, AWS EC2, AWS RDS
